@@ -1,0 +1,10 @@
+torch==2.7.1
+torchaudio==2.7.1
+torchvision==0.22.1
+
+transformers>=5.8.0
+accelerate
+huggingface_hub
+
+gradio
+stable-audio-3
